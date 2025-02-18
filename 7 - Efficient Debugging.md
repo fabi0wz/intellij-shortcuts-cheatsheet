@@ -27,3 +27,10 @@
 | **Modify Variable Value**   | Double-click variable     | Allows changing values during execution |
 | **View Object References**  | `Alt + Click` on variable | Expands object details in debugger panel |
 ---
+
+## Memory Analysis  
+| **Action**               | **Shortcuts**          | **Description** |
+|------------------------|---------------------|-----------------|
+| **Open Memory View**    | `Alt + Shift + F12`   | Shows detailed memory usage information |
+| **Force Garbage Collection** | Right-click Memory View > "Force GC" | Manually frees memory to analyze leaks |
+---
